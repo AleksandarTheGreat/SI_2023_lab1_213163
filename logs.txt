@@ -1,0 +1,38 @@
+commit 0c4725ac5e82227ba5811b9eb1ff0837885f65bb (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Aleks <aleks@gmail.com>
+Date:   Thu Apr 6 13:06:06 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 9487aa2b6fa4fbfff7372a824b5b9e0497d3b45b
+Merge: 67d2b18 1951660
+Author: Aleks <aleks@gmail.com>
+Date:   Thu Apr 6 13:18:24 2023 +0200
+
+    Merge branch 'bug2'
+
+    Merged master with bug2
+
+commit 19516605080751112f8f6e99162fbef3b19abfce (origin/bug2, bug2)
+Author: Aleks <aleks@gmail.com>
+Date:   Thu Apr 6 13:02:21 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 67d2b18ea051caec11068aa739eedcee4301c93c (origin/bug1, bug1)
+Author: Aleks <aleks@gmail.com>
+Date:   Thu Apr 6 12:59:31 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 67738d15f26fe66882676d9311f3804ba2420b0c
+Author: Aleks <aleks@gmail.com>
+Date:   Thu Apr 6 12:51:04 2023 +0200
+
+    Add java class
+
+commit 7ddc652ccf991048344a0ce1127b27f9a1cec5b8
+Author: Aleks <aleks@gmail.com>
+Date:   Thu Apr 6 12:47:56 2023 +0200
+
+    Initial commit

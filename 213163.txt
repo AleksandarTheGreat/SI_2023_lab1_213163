@@ -1,0 +1,27 @@
+1 - Instalirav git
+2 - Ja promenav grankata od main na master
+3 - Napraviv remote repozitorium na github
+4 - Kreirav direktorium so isto ime i go inicijalizirav so git init
+5 - Go povrzav lokalniot repozitorium so remote repozitorium so git remote add origin -- link
+6 - Napraviv file so ime README.md so moeto ime, prezime i broj na indeks. Napraviv prv commit so poraka "Initial commit"
+7 - Dodaov java file, ja kopirav sodrzhinata od dadeniot link i napraviv commit so poraka "Add java class"
+8 - So komandata git push origin master go sinhronizirav localniot so remote repozitoriumot
+9 - Otvoriv tri granki soodvetno iminjata bug1, bug2, bug3
+10 - Se prefrliv na grankata bug1 so komandata git checkout bug1
+11 - Ja popraviv greshakta za chitanje na broevi, napraviv commit so poraka "Fix wrong loop for reading"
+12 - Se prefrliv na grankata bug2 so komandata switch bug2
+13 - Ja popraviv greshkata koja beshe vo uslovot za neparni broevi i napraviv commit so poraka "Fix wrong condition in filterOddNumbers"
+14 - Se prefliv na granakata bug3 so komandata switch bug3
+15 - Ja popraviv greshkata za suma na parni broevi, i napraviv commit so poraka "Fix method sumEvenNumbers"
+16 - Gi sinhroniziav grankite so oddalecheniot repozitorium so komandata git push bug1 bug2 bug3
+17 - Se prefrliv na master grankata so komandata git checkout master
+18 - Ja spoiv granakata bug1 so master
+19 - Gi sinhronizirav grankite so komandata git push origin master bug1 bug2 bug3
+20 - Ja spoiv granakata bug2 so master
+21 - Gi sinhronizirav grankite so komandata git push origin master bug1 bug2 bug3
+22 - Se prefrliv na granakta bug3 
+23 - Napraviv rebase na bug3 od master
+24 - Se prefrliv na master grankata
+25 - Za grankata bug3 upotrebiv git push --force origin, a za ostanatite samo git push origin
+26 - Dodavam datoteka logs.txt
+27 - Ja dodavam ovaa datoteka vo local git repo-to i pravam commit i sinhronizacija na site granki
