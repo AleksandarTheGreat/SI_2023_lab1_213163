@@ -15,11 +15,11 @@
 15 - Ja popraviv greshkata za suma na parni broevi, i napraviv commit so poraka "Fix method sumEvenNumbers"
 16 - Gi sinhroniziav grankite so oddalecheniot repozitorium so komandata git push bug1 bug2 bug3
 17 - Se prefrliv na master grankata so komandata git checkout master
-18 - Ja spoiv granakata bug1 so master
+18 - Ja spoiv granakata bug1 so master  - nemashe konflikt, bidejki imashe promena samo na bug1, a na master ne, fast forward
 19 - Gi sinhronizirav grankite so komandata git push origin master bug1 bug2 bug3
-20 - Ja spoiv granakata bug2 so master
+20 - Ja spoiv granakata bug2 so master  - nemashe konflikt, isto kako i predhodno
 21 - Gi sinhronizirav grankite so komandata git push origin master bug1 bug2 bug3
-22 - Se prefrliv na granakta bug3 
+22 - Se prefrliv na granakta bug3       - nemashe konflikt, isto kako i predhodno
 23 - Napraviv rebase na bug3 od master
 24 - Se prefrliv na master grankata
 25 - Za grankata bug3 upotrebiv git push --force origin, a za ostanatite samo git push origin
